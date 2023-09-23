@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906012922271",
+    "project_id": "proctorcard",
+    "storage_bucket": "proctorcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906012922271:android:44a81df2dbdff96563edaa",
+        "android_client_info": {
+          "package_name": "com.quantum.proctorcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906012922271-5jb7aitb4jpibvfc1j883pk1t09q14pu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJGmONc5O3w6Xdqitji0SP2s-wqOrovs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906012922271-5jb7aitb4jpibvfc1j883pk1t09q14pu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
